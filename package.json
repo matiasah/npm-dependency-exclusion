@@ -25,6 +25,7 @@
   "homepage": "https://github.com/matiasah/npm-dependency-exclusion#readme",
   "dependencies": {},
   "devDependencies": {
-    "@types/node": "^16.11.0"
+    "@types/node": "^16.11.0",
+    "tslint": "^6.1.3"
   }
 }
