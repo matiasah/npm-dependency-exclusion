@@ -1,0 +1,26 @@
+{
+  "name": "npm-dependency-exclusion",
+  "version": "1.0.0",
+  "description": "NPM utility command to exclude dependencies",
+  "main": "dist/index.js",
+  "bin": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasah/npm-dependency-exclusion.git"
+  },
+  "keywords": [
+    "npm",
+    "dependency",
+    "exclusion"
+  ],
+  "author": "Matías Hermosilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matiasah/npm-dependency-exclusion/issues"
+  },
+  "homepage": "https://github.com/matiasah/npm-dependency-exclusion#readme"
+}
