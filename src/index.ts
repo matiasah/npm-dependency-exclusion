@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import * as fs from 'fs';
 import { excludePackageDependencies } from './exclude-dependencies';
 import { Package } from './package';
