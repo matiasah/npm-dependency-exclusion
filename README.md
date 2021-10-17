@@ -11,7 +11,7 @@ You need to define a exclusions property containing the name of the excluded dep
   "dependencies": {},
   "exclusions": {
     "lodash": "prod",
-    "lodash.template": "prod"
+    "lodash.template": "any"
   }
 }
 ```
