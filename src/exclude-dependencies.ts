@@ -53,7 +53,7 @@ function excludeDependencies(
                     // Remove from dependencies map
                     delete dependencies[name];
                     
-                } else {
+                } else if (typeof dependency !== 'string') {
 
                     // Mark as a dev dependency
                     dependency.dev = true;
